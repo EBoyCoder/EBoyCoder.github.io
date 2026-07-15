@@ -1,7 +1,7 @@
 github_users:
   - EBoyCoder
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
   - GummyHat/ParallelizedSobel
