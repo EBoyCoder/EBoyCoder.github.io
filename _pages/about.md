@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: C.S. is my middle name!
 
 profile:
   align: right
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-C.S. is my middle name! I'm Jacob, a fresh graduate from Rensselaer Polytechnic Institute looking to leverage modern technologies to make the world a better place. On this website, you will find prior and active projects, coursework, and more!
+I'm Jacob, a fresh graduate from Rensselaer Polytechnic Institute looking to leverage modern technologies to make the world a better place. On this website, you will find prior and active projects, coursework, and more!
