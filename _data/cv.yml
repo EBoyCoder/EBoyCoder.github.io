@@ -46,53 +46,55 @@ cv:
           - Graduated Cum Laude
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Regional Food Bank of Northeastern New York
+        position: Assistant Volunteer Coordinator
+        location: Voorheesville, NY
+        start_date: 2025
+        end_date: 2025
+        summary: Working on the Patroon Land Farm, I planted, tended, and harvested vegetables for the food bank. I trained and coordinated teams of volunteers to successfully contribute to the farm, and by extension, their communities.
+
+      - company: Lamoille County Conservation District
+        position: Intern, Data Management and Community Outreach
+        location: Morrisville, VT
+        start_date: 2023
+        end_date: 2023
         highlights:
-          - Relativity
-          - Description 2.
+          - Organized and compiled spreadsheets and mailing lists, organized disaster relief efforts.
+          - Engaged with community members through school groups, educating about watersheds and benthic macroinvertebrates in Vermont.
+          - Assisted in wetland management and conservation easement projects, as well as trail mapping and maintenance.
+          - Engaged with community members by running a stall at a large fairground event.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Hypertherm Associates
+        position: Machine Operator
+        location: Lebanon, NH
+        start_date: 2022
+        end_date: 2023
+        highlights:        
+          - Regulated multiple CNC lathe machines simultaneously.
+          - Demonstrated strong skills in attention to detail, project time management, fast and accurate mental math, spatial reasoning, and visualization
+          - Gained the necessary knowledge through extensive training required for running EMCO, Citizen, Hardinge, Mori, ABX, and Tsugami CNC lathes.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Community College of Vermont
+        position: Peer Academic Mentor
+        location: Winooski Vermont
+        start_date: 2021
+        end_date: 2022
+        highlights:        
+          - Guided students to resources, helped develop good study habits and test taking skills.
+          - Provided personalized assistance with a multitude of subjects ranging from introductory writing courses to some of the most advanced coding, science, and math courses offered at the Community College of Vermont.
+          - Built experience in helping others develop skills through sharing knowledge and strategies.
+          - Demonstrated and was commended for patience, willingness to listen, attention to detail, and capacity to see from the perspective of others, allowing for consistent identification of misunderstanding and prompt applicable, easily implementable guidance.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Main Street Kitchens
+        position: Computer Systems Manager
+        location: Hanover, NH
+        start_date: 2018
+        end_date: 2020
+        highlights:        
+          - Created Main Street Kitchens’ inventory system from the ground up.
+          - Developed a guidebook to using the store's computer systems
+          - Provided individualized training for new hires and coworkers in operation of computer systems.
+          - Kept and audited exhaustive computerized inventory of items, as well as using statistical analysis to identify trends in sales data.
 
     Awards:
       - title: Nobel Prize in Physics
