@@ -1,10 +1,10 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Jacob Hudnut
+  label: Computer Scientist
+  email: jacob.hudnut@gmail.com
+  location: Troy, NY
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Computer Science graduate with a concentration in Robotics and Computer Vision, and significant work experiences across a variety of fields.
 
   social_networks:
     - network: X
@@ -15,36 +15,35 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street:
+    city: Troy
+    region: New York
+    postalCode: 12180
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Rensselaer Polytechnic Institute
+        location: Troy, New York
+        url: https://www.rpi.edu/
+        area: Computer Science
+        studyType: BS
+        start_date: 2023
+        end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Robotics and Computer Vision Concentration
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Community College of Vermont
+        location: Winooski, Vermont
+        url: https://www.ccv.edu/
+        area: STEM Studies
+        studyType: AS
+        start_date: 2019
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - Graduated Cum Laude
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
