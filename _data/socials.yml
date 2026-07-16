@@ -4,6 +4,7 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: jacob.hudnut@gmail.com # your email address
 linkedin_username: jacob-hudnut # Inspire HEP author ID
+github_username: EBoyCoder
 #rss_icon: true # comment this line to hide the RSS icon
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
