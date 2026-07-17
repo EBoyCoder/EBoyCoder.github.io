@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
+title: Course Robots Repository
+description: A Rensselaer Center for Open Source project designed to document and maintain course robots, and to provide informational materials to students.
+img: assets/img/image.png
+redirect: [https://www.wikipedia.org/](https://github.com/Course-Robots-Repository/Records)
 importance: 3
 category: work
 ---
