@@ -1,24 +1,13 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Robotic Arm Block Sorting
+description: A colored block sorting implementation using a YahBoom DofBot
 img:
 importance: 3
-category: fun
+category: Coursework
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+To complete our goal of sorting blocks, we relied on hard-coded positions that the robot would need to pick and place blocks at [1]. This was done by using two predefined angle sets, one for the initial camera position for scanning block color (shown in Figure 1 below) and one for getting the gripper to each of the set locations. First, the robot will scan each location using the camera angle sets, iterating through all five spots and taking an image that would be used to detect a block and the block’s color at each location.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
