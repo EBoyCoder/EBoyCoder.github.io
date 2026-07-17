@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Parallelized Sobel Edge Detection
+description: An implementation of the Sobel edge detection algorithm, built and run on RPI's AiMOS Supercomputer!
+img: assets/img/sobelImage.png
 importance: 4
 category: Coursework
 ---
