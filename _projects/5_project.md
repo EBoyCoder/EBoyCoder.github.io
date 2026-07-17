@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: AI Monitored Hydroponic Garden System
+description: A hydroponic garden with built in AI plant disease detection
 img: assets/img/1.jpg
 importance: 3
 category: Independent
