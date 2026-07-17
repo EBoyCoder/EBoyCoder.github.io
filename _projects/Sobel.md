@@ -7,8 +7,7 @@ importance: 4
 category: Coursework
 ---
 
-Github Repository Link:
-https://github.com/GummyHat/ParallelizedSobel
+[Github Repository](https://github.com/GummyHat/ParallelizedSobel)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
