@@ -5,7 +5,7 @@ description: A Rensselaer Center for Open Source project designed to document an
 img: assets/img/image.png
 redirect: https://github.com/Course-Robots-Repository/Records
 importance: 3
-category: work
+category: RCOS
 ---
 
 Every project has a beautiful feature showcase page.
