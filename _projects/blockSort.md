@@ -24,5 +24,5 @@ This project utilized a 5 degree of freedom robot arm with a wrist mounted camer
     </div>
 </div>
 <div class="caption">
-    In this image you can see the images taken by the wrist mounted camera, the identified regions of the images where the blocks are found, and the identified colors of the blocks in the order they are placed in the work space.
+    In the top left, you can see the identified colors of each position, in order from left to right looking at the mat while standing in front of the robot. It has correctly identified the order as being 'R','Y',' ','B','G'. The top right shows the identified area of the image in which the  block is present. The bottom left shows an example initial configuration, with the desired configuration being 'B','Y',' ','R','G'. The blocks already in their desired positions are marked with a green check, and the blocks not in their desired positions are marked with a red X. The bottom right shows joint angle sets used to take the images of the blocks in each respective location.
 </div>
