@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Arm Block Sorting
 description: A colored block sorting implementation using a YahBoom DofBot
-img:
+img: assets/img/robotArm.png
 importance: 3
 category: Coursework
 ---
